@@ -69,6 +69,7 @@ use ferris_says::say;
 
 # A simple Rust program
 Here’s a simple Rust program that uses the ferris-says crate to print a message:
+
 [OPTIONAL]
 ```sh
 cd 2_simple_rust_program_with_dep
